@@ -10,7 +10,6 @@ INDEX VERSION 1.131+C:\Users\INTEL\Desktop\PRMToolReactJava\.metadata\.plugins\o
 4268224774.index
 1200842968.index
 1688006241.index
-828870502.index
 3432300703.index
 147344081.index
 3019558056.index

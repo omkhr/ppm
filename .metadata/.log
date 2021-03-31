@@ -77,3 +77,63 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-03-31 12:01:35.335
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:09.144
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:09.146
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3941bdd7[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:09.174
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:09.955
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:36.630
+!MESSAGE Boot LS startup time from start to initialized: 27360ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.450
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OzptaBeyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.451
+!MESSAGE subscribing to classpath changes: sts4.classpath.OzptaBey isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.457
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.462
+!MESSAGE subsribers = {sts4.classpath.OzptaBey=Send Classpath Notifications(120)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.464
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.469
+!MESSAGE project PersonalProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.470
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.472
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OzptaBey => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.477
+!MESSAGE Preparing classpath changed notification PersonalProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.478
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.502
+!MESSAGE classpath=111 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.513
+!MESSAGE buffering callback sts4.classpath.OzptaBey PersonalProject false 111
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.515
+!MESSAGE executing callback sts4.classpath.OzptaBey 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-03-31 12:04:37.696
+!MESSAGE executing callback sts4.classpath.OzptaBey SUCCESS [done]
